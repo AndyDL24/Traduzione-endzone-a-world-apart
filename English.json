@@ -459,7 +459,7 @@
     },
     {
       "k": 1179,
-      "v": "Liquore duro"
+      "v": "Liquore forte"
     },
     {
       "k": 3497,
@@ -819,7 +819,7 @@
     },
     {
       "k": 1181,
-      "v": "Il Liquore Duro può essere prodotto in un Pub da vari ingredienti."
+      "v": "Il liquore forte può essere prodotto in un Pub da vari ingredienti."
     },
     {
       "k": 3514,
@@ -3227,7 +3227,7 @@
     },
     {
       "k": 2858,
-      "v": "Quantità memorizzata di alimenti diversi"
+      "v": "Quantità immagazzinata di alimenti diversi"
     },
     {
       "k": 2859,
@@ -4763,7 +4763,7 @@
     },
     {
       "k": 2312,
-      "v": "Segna per il salvataggio"
+      "v": "Contrassegna per il recupero"
     },
     {
       "k": 540,
@@ -5875,7 +5875,7 @@
     },
     {
       "k": 1050,
-      "v": "Potenza memorizzata"
+      "v": "Potenza immagazzinata
     },
 	{
       "k": 6651,
@@ -7911,7 +7911,7 @@
     },
     {
       "k": 2139,
-      "v": "Gli esploratori vengono raccolti"
+      "v": "Gli esploratori vengono riforniti"
     },
     {
       "k": 2140,
@@ -8943,7 +8943,7 @@
     },
     {
       "k": 2268,
-      "v": "Il potenziale bottino è memorizzato nella stazione di spedizione"
+      "v": "Il potenziale bottino è stoccato nella stazione di spedizione"
     },
     {
       "k": 2562,
@@ -9047,7 +9047,7 @@
     },
     {
       "k": 3046,
-      "v": "Pedaggi"
+      "v": "Costi"
     },
     {
       "k": 861,
@@ -9103,7 +9103,7 @@
     },
     {
       "k": 930,
-      "v": "Giovani adulti"
+      "v": "Giovane adulto"
     },
     {
       "k": 931,
@@ -9111,11 +9111,11 @@
     },
     {
       "k": 932,
-      "v": "Vecchio adulto"
+      "v": "Maturo"
     },
     {
       "k": 933,
-      "v": "Adulto molto anziano"
+      "v": "Anziano"
     },
     {
       "k": 934,
@@ -9127,7 +9127,7 @@
     },
     {
       "k": 936,
-      "v": "Giovani adulti"
+      "v": "Giovane adulto"
     },
     {
       "k": 937,
@@ -9135,11 +9135,11 @@
     },
     {
       "k": 938,
-      "v": "Vecchio adulto"
+      "v": "Maturo"
     },
     {
       "k": 939,
-      "v": "Adulto molto anziano"
+      "v": "Anziano"
     },
     {
       "k": 2301,
@@ -9423,7 +9423,7 @@
     },
     {
       "k": 1083,
-      "v": "<<resourceName>> memorizzato: <<amount>>"
+      "v": "<<resourceName>> stoccato: <<amount>>"
     },
     {
       "k": 1084,
@@ -17731,7 +17731,7 @@
     },
     {
       "k": 2571,
-      "v": "Coltiva piccola piantina, coltiva"
+      "v": "Cresci piccola piantina, cresci"
     },
     {
       "k": 2572,
@@ -18247,15 +18247,15 @@
     },
     {
       "k": 3129,
-      "v": "Raccogli tutta l'acqua e tutto il cibo per il primo pedaggio"
+      "v": "Raccogli tutta l'acqua e tutto il cibo per il primo pagamento"
     },
     {
       "k": 3130,
-      "v": "Raccogli tutta l'acqua, tutto il cibo e tutte le attrezzature per il secondo pedaggio"
+      "v": "Raccogli tutta l'acqua, tutto il cibo e tutte le attrezzature per il secondo pagamento"
     },
     {
       "k": 3131,
-      "v": "Raccogli tutte le risorse necessarie per il terzo pedaggio"
+      "v": "Raccogli tutte le risorse necessarie per il terzo pagamento"
     },
     {
       "k": 2818,
@@ -24147,7 +24147,7 @@
     },
     {
       "k": 6044,
-      "v": "Stanno accogliendo il Pub a braccia aperte! Ora ci sono finalmente diversi tipi di pasti e un bicchierino di liquore duro per l'avvio. Non serve altro per passare una bella serata. Ma le persone non sono ancora esattamente affezionate l'una all'altra."
+      "v": "Stanno accogliendo il Pub a braccia aperte! Ora ci sono finalmente diversi tipi di pasti e un bicchierino di liquore forte per l'avvio. Non serve altro per passare una bella serata. Ma le persone non sono ancora esattamente affezionate l'una all'altra."
     },
     {
       "k": 6046,
