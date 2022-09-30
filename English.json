@@ -142,6 +142,18 @@
       "v": "Apri la cartella dei dati di gioco!"
     },
 	{
+      "k": 9518,
+      "v": "<color=red><b>Si è verificato un errore durante il caricamento dei file di gioco!</b></color>\nIl gioco verrà chiuso. Si prega di verificare i file di gioco o di reinstallare il gioco o il DLC che potrebbe aver causato il problema."
+    },
+    {
+      "k": 9519,
+      "v": "<color=red><b>Si è verificato un errore durante il caricamento dei file di gioco!</b></color>\nIl gioco verrà chiuso. Cercheremo di riparare automaticamente i file potenzialmente danneggiati al riavvio del gioco."
+    },
+    {
+      "k": 9520,
+      "v": "Aiuto: verificare / riparare i file di gioco"
+    },
+	{
       "k": 5420,
       "v": "Costruire"
     },
@@ -5875,7 +5887,7 @@
     },
     {
       "k": 1050,
-      "v": "Potenza immagazzinata
+      "v": "Potenza immagazzinata"
     },
 	{
       "k": 6651,
@@ -7456,6 +7468,10 @@
 	{
       "k": 5893,
       "v": "Scorrimento della camera dal bordo dello schermo"
+    },
+	{
+      "k": 9517,
+      "v": "ASUS Aura™"
     },
     {
       "k": 2275,
