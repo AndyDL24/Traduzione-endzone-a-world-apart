@@ -1346,6 +1346,18 @@
       "v": "Torre con sirena"
     },
 	{
+      "k": 9521,
+      "v": "Scarti di legno"
+    },
+    {
+      "k": 9522,
+      "v": "Panchina"
+    },
+    {
+      "k": 9524,
+      "v": "Arbusto alto"
+    },
+	{
       "k": 5977,
       "v": "Serra"
     },
@@ -8445,7 +8457,11 @@
       "k": 9373,
       "v": "Edifici speciali"
     },
-    {
+	{
+      "k": 9523,
+      "v": "Vegetazione"
+    },
+	{
       "k": 735,
       "v": "Costruisci un raccoglitore di acqua piovana"
     },
